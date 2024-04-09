@@ -10,6 +10,11 @@ body {
     background-color: #fff;
     font-family: 'Poppins';
 }
+  
+
+
+
+
 header {
     max-width: 1100px;
     margin: 0 auto;
@@ -387,4 +392,8 @@ footer {
 }
 .body-footer span:hover {
     color: #e75e8d;
+}
+.body-footer span iframe {
+    transition: .2s;
+    cursor: pointer;
 }
